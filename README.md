@@ -28,6 +28,29 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Setup
+------
+* Clone the repository
+
+git clone https://github.com/lesiadmytrus/nest-app.git
+
+* Switch to the repo folder
+cd nest-server
+
+* Install dependencies: `npm install`
+
+## NPM scripts
+
+* npm start - Start application
+* npm run start:dev - Start application in watch mode
+* npm run test - run Jest test runner
+* npm run start:prod - Build application
+
+## Start application
+
+* npm start
+* Test api with http://localhost:3000/api/items in your favourite browser
+
 ## Installation
 
 ```bash
